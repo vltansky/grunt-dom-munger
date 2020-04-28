@@ -1,5 +1,3 @@
-# grunt-dom-munger [![Build Status](https://travis-ci.org/cgross/grunt-dom-munger.png?branch=master)](https://travis-ci.org/cgross/grunt-dom-munger)
-
 > Read and manipulate HTML documents using CSS selectors.
 
 Use this task to read and transform your HTML documents.  Typical use cases include:

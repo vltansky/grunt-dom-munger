@@ -1,7 +1,7 @@
 {
-  "name": "grunt-dom-munger",
+  "name": "grunt-dom-munger-updated",
   "description": "Read and manipulate HTML with CSS selectors. Ex. read <script> tags from your html.  Remove nodes, add nodes, and more. Fork of grunt-dom-munger",
-  "version": "3.4.1",
+  "version": "3.4.2",
   "homepage": "https://github.com/vltansky/grunt-dom-munger",
   "author": {
     "name": "Vlad Tansky",
