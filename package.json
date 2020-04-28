@@ -1,23 +1,23 @@
 {
   "name": "grunt-dom-munger",
-  "description": "Read and manipulate HTML with CSS selectors. Ex. read <script> tags from your html.  Remove nodes, add nodes, and more.",
-  "version": "3.4.0",
-  "homepage": "https://github.com/cgross/grunt-dom-munger",
+  "description": "Read and manipulate HTML with CSS selectors. Ex. read <script> tags from your html.  Remove nodes, add nodes, and more. Fork of grunt-dom-munger",
+  "version": "3.4.1",
+  "homepage": "https://github.com/vltansky/grunt-dom-munger",
   "author": {
-    "name": "Chris Gross",
-    "email": "schtoo@schtoo.com"
+    "name": "Vlad Tansky",
+    "email": "vl.tansky@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cgross/grunt-dom-munger.git"
+    "url": "git://github.com/vltansky/grunt-dom-munger.git"
   },
   "bugs": {
-    "url": "https://github.com/cgross/grunt-dom-munger/issues"
+    "url": "https://github.com/vltansky/grunt-dom-munger/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/cgross/grunt-dom-munger/blob/master/LICENSE-MIT"
+      "url": "https://github.com/vltansky/grunt-dom-munger/blob/master/LICENSE"
     }
   ],
   "main": "Gruntfile.js",
